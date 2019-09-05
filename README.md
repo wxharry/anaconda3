@@ -9,7 +9,7 @@
 1.下载安装。
 如果有vpn 的话可以上官网去下载。https://www.anaconda.com/distribution/#download-section（如果直接百度搜索，找到Download，记得选择对应的系统，这里选择windows）
 
-
+![image](https://github.com/wxharry/anaconda3/blob/master/images/1.png)
 
 下载完成以后，在下载列表里面找到
 
