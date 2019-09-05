@@ -12,8 +12,10 @@
 ![image](https://github.com/wxharry/anaconda3/blob/master/images/1.png)
 
 下载完成以后，在下载列表里面找到
+![image](https://github.com/wxharry/anaconda3/blob/master/images/2.png)
 
 双击安装一路next直到：
+![image](https://github.com/wxharry/anaconda3/blob/master/images/3.png)
 
 如果是第一次装建议是选下面这个，如果电脑环境里有就选上面那个，这个教程是记录我个人安装过程的，所以我只选了下面这个（我在安装前把Anaconda全部卸载了再来安装的）。
 然后一路next直到进入安装进程，安装需要一些时间，要有耐心，快结束前会比较慢，看上去都没在动，耐心等一下，过了这个坎就会唰的一下完成finish!
@@ -24,13 +26,13 @@
 Win10用户的快捷键操作：win+Q -> 输入“高级”->查看高级系统设置
 在设置中的查找“查看高级系统设置”应该都可以找到
 
-
-
-
-
+![image](https://github.com/wxharry/anaconda3/blob/master/images/4.png)
+![image](https://github.com/wxharry/anaconda3/blob/master/images/5.png)
+![image](https://github.com/wxharry/anaconda3/blob/master/images/6.png)
 
 点击“高级”-》“环境变量”-》“Path”双击-》把Anaconda3的目录添加进去
 怎么知道自己成功了？cmd输入conda activate 回车 结果如下 这里坑比较多
+![image](https://github.com/wxharry/anaconda3/blob/master/images/7.png)
 
 雷区：
 问题：‘conda’不是内部或外部命令，也不是可运行的程序
